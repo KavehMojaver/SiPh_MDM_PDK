@@ -1,11 +1,14 @@
 # SiPh_MDM_PDK
 Silicon Photonics PDK library for Mode-Division-Multiplexing componants by McGill University, Photonic DataCom Team.
 We are developing this library and will add more components soon.
-For the complete list of recent publications on MDM components please visit:
 
+For the complete list of recent publications on MDM components please visit:
 [Google Scholar Page](https://scholar.google.ca/citations?user=Eyx0xDgAAAAJ&hl=en&oi=ao)
 <br /> [Photonic DataCom Team Website](http://erbium.ece.mcgill.ca/)
 
+If you have question please feel free to contact:
+odile.liboiron-ladouceur@mcgill.ca
+hassan.rahbardarmojaver@mcgill.ca
 
 The SiPh_MDM_PDK includes:
 
