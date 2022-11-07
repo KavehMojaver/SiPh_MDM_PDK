@@ -7,7 +7,7 @@ For the complete list of recent publications on MDM components please visit:
 <br /> [Photonic DataCom Team Website](http://erbium.ece.mcgill.ca/)
 
 If you have question please feel free to contact:
-odile.liboiron-ladouceur@mcgill.ca
+<br />odile.liboiron-ladouceur@mcgill.ca
 <br />hassan.rahbardarmojaver@mcgill.ca
 
 The SiPh_MDM_PDK includes:
