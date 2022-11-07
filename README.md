@@ -21,7 +21,7 @@ layout in "MMI_2by2.gds"
 <br />Citing this work:
 <br />A. Das, G. Zhang, H. R. Mojaver and O. Liboiron-Ladouceur, "Scalable Two-Mode 3-Port and 4-Port Mode Insensitive Silicon Photonic Switches," in IEEE Photonics Technology Letters, vol. 33, no. 11, pp. 557-560, June 2021.
 
-### Mode insensitive thermop optic phase shifter for the first three TE modes (TE0, TE1, and TE2)
+### Mode insensitive thermo optic phase shifter for the first three TE modes (TE0, TE1, and TE2)
 layout in "mode_insensitive_TOPS.gds"
 ![image](https://user-images.githubusercontent.com/44322134/200358847-b0db2a3e-7326-4d45-8fc1-e9e1988b2bf6.png)
 <br />Read more details in [this paper](https://opg.optica.org/ol/fulltext.cfm?uri=ol-45-4-811&id=426537)
