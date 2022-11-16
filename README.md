@@ -41,3 +41,14 @@ layout in "Sbend_100um.gds"
 <br />Read more details @ [this paper](https://opg.optica.org/ol/fulltext.cfm?uri=ol-45-4-811&id=426537)
 <br />Citing this work:
 <br />G. Zhang, H. Rahbardar Mojaver, A. Das, and O. Liboiron-Ladouceur, "Mode insensitive switch for on-chip interconnect mode division multiplexing systems," Optics Letters, vol. 45, no. 4, pp. 811-814, 2020.
+
+### Mode sensitive SWG-based thermo optic phase shifter for the first two TE modes (TE0 and TE1)
+layout in "mode_sensitive_TOPS_SWG.gds"
+![image](https://user-images.githubusercontent.com/44322134/202222628-e84bacc9-829e-436c-b7ad-4fe8f0560d2d.png)
+<br />Read more details @ [this paper](http://rahbardar.research.mcgill.ca/Papers/IPC_2022.pdf)
+<br />Citing this work:
+<br /> Kaveh (Hassan) R. Mojaver , Guowu Zhang, and Odile Liboiron-Ladouceur, "Design of Silicon Photonic Mode-Sensitive Thermo-Optic Phase Shifter based on Subwavelength Grating Structures," IEEE Photonics Conference, 2022.
+
+
+
+
