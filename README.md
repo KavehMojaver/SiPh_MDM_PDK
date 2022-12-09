@@ -49,6 +49,23 @@ layout in "mode_sensitive_TOPS_SWG.gds"
 <br />Citing this work:
 <br /> Kaveh (Hassan) R. Mojaver , Guowu Zhang, and Odile Liboiron-Ladouceur, "Design of Silicon Photonic Mode-Sensitive Thermo-Optic Phase Shifter based on Subwavelength Grating Structures," IEEE Photonics Conference, 2022.
 
+### Mode converter TE0-TE1
+layout in "TE0_to_TE1.gds"
+![image](https://user-images.githubusercontent.com/44322134/206734610-5e7f3ad5-e999-4546-a398-f5743076b5ed.png)
+<br />Read more details @ [this paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-14-25817&id=477533)
+<br />Citing this work:
+<br />Md Mahadi Masnad, Guowu Zhang, Dan-Xia Xu, Yuri Grinberg, and Odile Liboiron-Ladouceur, "Fabrication error tolerant broadband mode converters and their working principles," Opt. Express, vol. 30, no. 14, pp. 25817-25829, 2022.
 
+### Mode converter TE0-TE2
+layout in "TE0_to_TE2.gds"
+![image](https://user-images.githubusercontent.com/44322134/206734685-ab379318-b2fe-477f-816b-6ee722afa1b1.png)
+<br />Read more details @ [this paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-14-25817&id=477533)
+<br />Citing this work:
+<br />Md Mahadi Masnad, Guowu Zhang, Dan-Xia Xu, Yuri Grinberg, and Odile Liboiron-Ladouceur, "Fabrication error tolerant broadband mode converters and their working principles," Opt. Express, vol. 30, no. 14, pp. 25817-25829, 2022.
 
-
+### Mode converter TE1-TE3
+![image](https://user-images.githubusercontent.com/44322134/206734758-edf0f6bb-1620-420f-904d-eb84bf86c03f.png)
+layout in "TE1_to_TE3.gds"
+<br />Read more details @ [this paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-14-25817&id=477533)
+<br />Citing this work:
+<br />Md Mahadi Masnad, Guowu Zhang, Dan-Xia Xu, Yuri Grinberg, and Odile Liboiron-Ladouceur, "Fabrication error tolerant broadband mode converters and their working principles," Opt. Express, vol. 30, no. 14, pp. 25817-25829, 2022.
