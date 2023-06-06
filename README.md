@@ -44,7 +44,7 @@ layout in [Sbend_100um.gds](https://github.com/KavehMojaver/SiPh_MDM_PDK/blob/ma
 
 ### Mode sensitive SWG-based thermo optic phase shifter for the first two TE modes (TE0 and TE1)
 ![image](https://user-images.githubusercontent.com/44322134/202222628-e84bacc9-829e-436c-b7ad-4fe8f0560d2d.png)
-layout in [mode_sensitive_TOPS_SWG.gds](https://github.com/KavehMojaver/SiPh_MDM_PDK/blob/main/mode_sensitive_TOPS_SWG.gds)
+layout in [mode_sensitive_TOPS_SWG.GDS](https://github.com/KavehMojaver/SiPh_MDM_PDK/blob/main/mode_sensitive_TOPS_SWG.GDS)
 <br />Read more details @ [this paper](http://rahbardar.research.mcgill.ca/Papers/IPC_2022.pdf)
 <br />Citing this work:
 <br /> Kaveh (Hassan) R. Mojaver , Guowu Zhang, and Odile Liboiron-Ladouceur, "Design of Silicon Photonic Mode-Sensitive Thermo-Optic Phase Shifter based on Subwavelength Grating Structures," IEEE Photonics Conference, 2022.
