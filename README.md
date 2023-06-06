@@ -16,7 +16,7 @@ If you have any questions please feel free to contact:
 
 ### 2x2 MMI 
 ![image](https://user-images.githubusercontent.com/44322134/200358517-d7abbe14-5e50-4899-b233-aefd332e7779.png)
-layout in "MMI_2by2.gds"
+layout in [MMI_2by2.gds](https://github.com/KavehMojaver/SiPh_MDM_PDK/blob/main/MMI_2by2.gds)
 <br />Read more details @ [this paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9416583)
 <br />Citing this work:
 <br />A. Das, G. Zhang, H. R. Mojaver and O. Liboiron-Ladouceur, "Scalable Two-Mode 3-Port and 4-Port Mode Insensitive Silicon Photonic Switches," in IEEE Photonics Technology Letters, vol. 33, no. 11, pp. 557-560, June 2021.
