@@ -69,3 +69,18 @@ layout in "TE1_to_TE3.gds"
 <br />Read more details @ [this paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-14-25817&id=477533)
 <br />Citing this work:
 <br />Md Mahadi Masnad, Guowu Zhang, Dan-Xia Xu, Yuri Grinberg, and Odile Liboiron-Ladouceur, "Fabrication error tolerant broadband mode converters and their working principles," Opt. Express, vol. 30, no. 14, pp. 25817-25829, 2022.
+
+### 2x2 compact SWG-based MMI 
+![image](https://github.com/KavehMojaver/SiPh_MDM_PDK/assets/44322134/ac72cd73-c64b-4781-8e81-068eb37bcd5e)
+layout in "2Mode_SWG_MMI.gds"
+<br />Read more details @ [this paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-15-23864&id=453266)
+<br />Citing this work:
+<br />Hatef Shiran, Guowu zhang, and Odile Liboiron-Ladouceur, "Dual-mode broadband compact 2 × 2 optical power splitter using sub-wavelength metamaterial structures," Opt. Express, vol. 29, no. 15, pp. 23864-23876, 2021.
+
+### Mode Exchanger 
+![image](https://github.com/KavehMojaver/SiPh_MDM_PDK/assets/44322134/9e8673fc-c1f8-44ea-a96f-d29e67abfde8)
+layout in "Mode_exchanger.gds"
+<br />Read more details @ [this paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-12-20543&id=473153)
+<br />Citing this work:
+<br />Guowu Zhang, Dan-Xia Xu, Yuri Grinberg, and Odile Liboiron-Ladouceur, "Efficient mode exchanger-based silicon photonic switch enabled by inverse design," Opt. Express vol. 30, no. 12, pp. 20543-20553, 2022.
+
