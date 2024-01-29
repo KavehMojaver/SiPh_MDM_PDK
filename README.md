@@ -84,3 +84,9 @@ layout in [Mode_exchanger.gds](https://github.com/KavehMojaver/SiPh_MDM_PDK/blob
 <br />Citing this work:
 <br />Guowu Zhang, Dan-Xia Xu, Yuri Grinberg, and Odile Liboiron-Ladouceur, "Efficient mode exchanger-based silicon photonic switch enabled by inverse design," Opt. Express vol. 30, no. 12, pp. 20543-20553, 2022.
 
+### Inverse Designed Mux/deMux 
+![image](https://github.com/KavehMojaver/SiPh_MDM_PDK/assets/44322134/5f62f241-0c7c-4ac5-8e62-e4982a2fd7f2)
+layout in [Mode_exchanger.gds](https://github.com/KavehMojaver/SiPh_MDM_PDK/blob/main/Mux_ID_Prefab.GDS)
+<br />Read more details @ [this paper](https://ieeexplore.ieee.org/abstract/document/9979455)
+<br />Citing this work:
+<br />D. Gostimirovic, M. M. Masnad, D. -X. Xu, Y. Grinberg and O. Liboiron-Ladouceur, "Pre-Fabrication Performance Verification of a Topologically Optimized Mode Demultiplexer Using Deep Neural Networks," 2022 European Conference on Optical Communication (ECOC), 2022, pp. 1-4.
