@@ -88,5 +88,6 @@ layout in [Mode_exchanger.gds](https://github.com/KavehMojaver/SiPh_MDM_PDK/blob
 ![image](https://github.com/KavehMojaver/SiPh_MDM_PDK/assets/44322134/5f62f241-0c7c-4ac5-8e62-e4982a2fd7f2)
 layout in [Mode_exchanger.gds](https://github.com/KavehMojaver/SiPh_MDM_PDK/blob/main/Mux_ID_Prefab.GDS)
 <br />Read more details @ [this paper](https://ieeexplore.ieee.org/abstract/document/9979455)
+<br />This design used @ [Prefab](https://www.prefabphotonics.com/) to predict fabrication outcomes and correct the design accordingly.
 <br />Citing this work:
 <br />D. Gostimirovic, M. M. Masnad, D. -X. Xu, Y. Grinberg and O. Liboiron-Ladouceur, "Pre-Fabrication Performance Verification of a Topologically Optimized Mode Demultiplexer Using Deep Neural Networks," 2022 European Conference on Optical Communication (ECOC), 2022, pp. 1-4.
